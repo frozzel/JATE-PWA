@@ -1,6 +1,6 @@
-[![Github license](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 <div>
-<a href="https://pwa-jate-text-edit.herokuapp.com"><img src="./client/src/images/logo.png" align="center" height="" width="40%" ></a></div>
+<a href="https://pwa-jate-text-edit.herokuapp.com"><img src="./client/src/images/logo.png" align="center" height="" width="60%" ></a></div>
 
 ---
   ## Description
