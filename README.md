@@ -39,14 +39,6 @@
 ---
 
 
-  ## Tests
-
-  Raptor style- one key one finger, @ A TIME!
-
-  <a href="https://i.gifer.com/embedded/download/Bn65.gif">PHOTO OF TESTING PROCESS<img src="https://i.gifer.com/embedded/download/Bn65.gif" align="center" height="" width="40%" ></a></div>
-  
-  ---
-
   ## Resources
 
   [GT Coding Boot Camp guide and miniproject](https://coding-boot-camp.github.io/full-stack/heroku/heroku-deployment-guide)
@@ -62,4 +54,12 @@
 Please contact me with questions at: frozzel@me.com 
 
 ---
+
+  ## Tests
+
+  Raptor style- one key one finger, @ A TIME!
+
+  <a href="https://i.gifer.com/embedded/download/Bn65.gif">PHOTO OF TESTING PROCESS<img src="https://i.gifer.com/embedded/download/Bn65.gif" align="center" height="" width="100%" ></a></div>
+  
+  ---
 
