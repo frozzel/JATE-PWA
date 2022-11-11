@@ -4,8 +4,9 @@
 
 ---
 
+# JATE PWA
 
-  ## Description
+## Description
   The app is a single page application that meets PWA criteria. This includes persistant data techniques and serve as a redundancy in case of a non supported browser or loss of network conectivitiy.
 
 
