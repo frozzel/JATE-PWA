@@ -1,6 +1,6 @@
 
 <div>
-<a href="https://pwa-jate-text-edit.herokuapp.com"><img src="./client/src/images/logo.png" align="center" height="600px" width="" ></a></div>
+<a href="https://pwa-jate-text-edit.herokuapp.com"><img src="./client/src/images/logo.png" align="center" height="300px" width="" ></a></div>
 
 ---
   ## Description
